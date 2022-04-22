@@ -1,4 +1,4 @@
-# StatLand
+# <center><span style="color:Teal;">*STATLAND*</span><center>
 
 
 ## [Session 1.1: Statistical Thinking](https://nbviewer.org/github/Unfathomableguy/StatLand/blob/main/Sessions/Session_1.1_Statistical_Thinking.ipynb)
